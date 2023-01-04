@@ -18,7 +18,7 @@ jobs:
       - name: Build demo
         run: |
           npm ci --force
-          npm run build
+          npm run build:GitHubPages
       - name: Deploy demo
         uses: peaceiris/actions-gh-pages@v3
         with:
