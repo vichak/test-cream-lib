@@ -10,8 +10,6 @@ MIT
 @angular/router
 MIT
 
-ngx-cream-lib
-
 rxjs
 Apache-2.0
                                Apache License
@@ -217,6 +215,8 @@ Apache-2.0
  limitations under the License.
  
 
+
+test-cream-lib
 
 tslib
 0BSD
