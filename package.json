@@ -5,7 +5,7 @@
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",
-    "build:GitHubPages": "ng build --base-href /ngx-cream/",
+    "build:GitHubPages": "ng build --base-href /test-cream-lib/",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
     "test:ci": "ng test --browsers=ChromeHeadless --watch=false --code-coverage",
