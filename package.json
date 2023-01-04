@@ -6,6 +6,8 @@
     "start": "ng serve",
     "build": "ng build",
     "build:GitHubPages": "ng build --base-href /test-cream-lib/",
+    "build:lib": "ng build ngx-cream-lib",
+    "publish:lib": "cd dist/ngx-cream-lib && npm publish",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
     "test:ci": "ng test --browsers=ChromeHeadless --watch=false --code-coverage",

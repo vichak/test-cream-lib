@@ -1,6 +1,15 @@
 {
-  "name": "ngx-cream-lib",
+  "name": "test-cream-lib",
   "version": "0.0.1",
+  "description": "test cream lib",
+  "homepage": "https://github.com/vichak/test-cream-lib",
+  "repository": {
+      "type": "git",
+      "url": "git@github.com:vichak/test-cream-lib.git"
+  },
+  "bugs": {
+      "url": "https://github.com/vichak/test-cream-lib/issues"
+  },
   "peerDependencies": {
     "@angular/common": "^15.0.0",
     "@angular/core": "^15.0.0"
